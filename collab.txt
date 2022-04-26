@@ -1,2 +1,3 @@
 Hello Owner!
 Hi Collaborator! 
+printf("The area of triangle is: %.2f" ,x); 
